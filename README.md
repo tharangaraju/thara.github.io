@@ -1,2 +1,3 @@
-# thara.github.io
-Life blog
+# tharanga.github.io
+
+my life /run/log/journal  
